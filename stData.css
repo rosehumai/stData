@@ -1,0 +1,33 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+#search{
+  margin: 15px 0px 15px 0px ;
+}
+#searchShow{
+  background-color: #7a7a7a;
+  color: black;
+}
+h3{
+  margin: 15px 0px 10px 0px;
+  background-color:yellow;
+  color: ;
+}
+button{
+  background-color: #4a9eeb;
+  color: black;
+}
+div{
+  background-color: #150de0;
+  color:#e6ed1c;
+}
+body{
+  color: black;
+  background-color: white;
+}
+.dark{
+  color: white;
+  background-color: black;
+}
